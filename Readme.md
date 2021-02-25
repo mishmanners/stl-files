@@ -14,4 +14,5 @@ Choose any of the files here and play around with their 3D views.
 2. Click on the file in GitHub
 3. Wait for the file to load
 4. A 3D render of your file will appear
-5. Use your mouse to navigate the file (spin, change viewing angle etc.)
+5. Use your mouse to navigate the file (spin, change viewing angle, zoom etc.)
+6. Select different view types via the options below your file (Solid, Wireframe, Surface Angle)
